@@ -21,7 +21,8 @@ SET time_zone = "+00:00";
 --
 -- Veritabanı: `hepsiburada`
 --
-
+CREATE DATABASE hepsiburada;
+USE hepsiburada;
 -- --------------------------------------------------------
 
 --
